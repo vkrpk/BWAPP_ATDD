@@ -1,0 +1,44 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=376decf1_002D0e2c_002D4f27_002Dbcea_002D720e53285283/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckBoxTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.CheckBoxTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.ComboBoxTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.TextBoxTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=73f450d4_002Dbf49_002D48b1_002D8a89_002D7f58522e108f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ConfigTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.ConfigTests.ConfigTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.FindElements.FindElementTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.NavigatorTests.NavigatorTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.PageNavigationTests.PageNavigationTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.AlertTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.ButtonTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac7d2cbe_002Df2c8_002D451b_002D95d6_002Dcccb4ef4be39/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AlertTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.AlertTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.ButtonTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.CheckBoxTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.ComboBoxTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.HyperLinkTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.TextBoxTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=da4a08fc_002D7225_002D4c4e_002Db0de_002D1202f78d0a20/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ConfigTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.ConfigTests.ConfigTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.ConfigTests.SettingsTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.FindElements.FindElementTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.NavigatorTests.NavigatorTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.PageNavigationTests.PageNavigationTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.WebElementsTests.AlertTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f4ac98ec_002Dc6ad_002D4982_002Dac9f_002D2d07b7095039/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SettingsTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.ConfigTests.SettingsTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D19B4221-A673-437C-A86F-6CDD30FA7211::.NETCoreApp,Version=v3.1::BugzillaWebDriver.Tests.ConfigTests.ConfigTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
